@@ -1,6 +1,6 @@
 # Walter Gugenberger
 
-Software engineer since 2014. Austrian, in the DC area, on AWS networking.
+Software engineer since 2014. Austrian, in Washington DC, at Scale AI. Before that AWS.
 
 I write at [waltergugenberger.com](https://waltergugenberger.com) about what I built and what broke.
 
